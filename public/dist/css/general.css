@@ -1,0 +1,29 @@
+.wd-130 { width: 130px; }
+.wd-50 { width: 50px; }
+.wd-80 { width: 80px; }
+.wd-100 { width: 100px; }
+.wd-120 { width: 120px; }
+.wd-320 { width: 320px; }
+.lft-align {text-align: left!important;}
+.rht-align {text-align: right!important;}
+.mar-bot-10 {margin-bottom: 10px;}
+.mar-rht-10 {margin-right: 10px;}
+.with-scroll {height: 400px; overflow-y: scroll;}
+.navbar-nav>.messages-menu>.dropdown-menu>li .menu>li>a>p,
+.navbar-nav>.messages-menu>.dropdown-menu>li .menu>li>a>h4,
+.chat .item>.message, .no-mar  {margin:0;}
+.cls-name { word-break: break-all; width: 25%;}
+.pad-lf-5 {padding: 0 5px;}
+.pad-top-10 {padding-top: 10px;}
+.mar-10 {margin: 10px;}
+.pad-10 {padding: 10px;}
+.mar-tb-10 {margin: 10px 0;}
+.non-pad {padding:0!important;}
+#imageList .form-group { margin-left: 0px; margin-left: 0px; }
+.category-list ul {list-style-type: none; padding-left: 15px;}
+.category-list ul:first-child {padding-left: 0px;}
+.category-list { max-height: 150px; overflow-y: scroll;}
+.opt-val{float: left; width: 40%;}
+.fa-add-but {float: left; margin-left: 10px;}
+#option-list hr {margin-top: 30px;margin-bottom: 20px;border: 0;border-top: 2px solid #0073b7;}
+/*.del-button-row {float: right;}*/
